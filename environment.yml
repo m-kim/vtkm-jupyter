@@ -1,0 +1,12 @@
+name: vtkm-cling
+
+channels:
+  - QuantStack
+  - conda-forge
+  - m-kim
+
+dependencies:
+  - xeus-cling=0.4.3
+  - notebook
+  - lodepng
+  - vtk-m
