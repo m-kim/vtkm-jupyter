@@ -6,4 +6,3 @@ You can access it using My Binder at
 
 https://mybinder.org/v2/gh/m-kim/vtkm-jupyter/master?filepath=notebooks
 
-https://hub.mybinder.org/user/m-kim-vtkm-jupyter-tf83g0mr/tree/notebooks
