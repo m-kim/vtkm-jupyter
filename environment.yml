@@ -8,5 +8,6 @@ channels:
 dependencies:
   - xeus-cling=0.4.3
   - notebook
+  - xplot
   - lodepng
   - vtk-m
