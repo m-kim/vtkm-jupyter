@@ -6,7 +6,7 @@ channels:
   - m-kim
 
 dependencies:
-  - xeus-cling=0.4.3
+  - xeus-cling
   - notebook
   - xplot
   - lodepng
