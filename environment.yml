@@ -11,3 +11,4 @@ dependencies:
   - xplot
   - lodepng
   - vtk-m
+  - vtkmxeusrender
